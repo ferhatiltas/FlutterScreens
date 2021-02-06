@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
           text,
           style: TextStyle(
             fontSize: 50.0,
-            color: Colors.white,
+            color: Colors.black,
           ),
         ),
       ),
